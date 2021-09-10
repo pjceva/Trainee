@@ -14,3 +14,4 @@ def fizzbuzz()
         end
     end
 end
+p fizzbuzz()
