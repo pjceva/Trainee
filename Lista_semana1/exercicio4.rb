@@ -19,4 +19,4 @@ def triangulo(n)
     end
 end
 
-#triangulo(6)
+triangulo(gets.to_i)
