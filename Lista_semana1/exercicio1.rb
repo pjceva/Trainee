@@ -11,4 +11,4 @@ def primo(n)
     return true
 end
 
-p primo(7)
+p primo(gets.to_i)
